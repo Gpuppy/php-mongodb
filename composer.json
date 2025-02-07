@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/php-mongodb-project",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Gaël Computer",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "mongodb/mongodb": "^1.20"
+  }
+}
